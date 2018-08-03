@@ -1,0 +1,12 @@
+{
+  "name": "transformer",
+  "version": "0.0.1",
+  "description": "code editor",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "wjhmrc",
+  "license": "GPL-3.0-or-later"
+}
